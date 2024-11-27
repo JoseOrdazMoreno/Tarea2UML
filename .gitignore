@@ -1,0 +1,2 @@
+#Excluyir los archivos con extensión .class
+*.class
